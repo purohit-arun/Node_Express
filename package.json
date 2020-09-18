@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "This is the first node express series",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "nodemon": "^2.0.4",
+    "popper.js": "^1.16.1",
+    "pug": "^3.0.0",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arun",
+  "license": "ISC"
+}
