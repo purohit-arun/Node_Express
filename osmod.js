@@ -3,7 +3,7 @@ const chalk = require('chalk');
 const validator = require("validator");
 
 //hello
-
+//this is done in develop branch
 console.log(chalk.blue('Hello world!'));
 const res = validator.isEmail("Arun@purohitcom");
 console.log(res);
